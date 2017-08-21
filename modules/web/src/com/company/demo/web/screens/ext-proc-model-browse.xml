@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/window.xsd"
+        class="com.company.demo.web.screens.ExtProcModelBrowse"
+        extends="com/haulmont/bpm/gui/procmodel/proc-model-browse.xml"
+        messagesPack="com.company.demo.web.screens">
+    <layout/>
+</window>
